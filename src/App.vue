@@ -9,5 +9,6 @@ import NewComponent from './components/NewComponent.vue'
 </template>
 
 <style scoped lang="sass">
+  @import '@/assets/styles/constants.sass'
 
 </style>
