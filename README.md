@@ -1,33 +1,10 @@
-# calendar
+Этот проект выполнен на основе шаблона, который я сделал под себя чтобы ускорить написание тестовых заданий, поэтому тут могут быть подключены неиспользованные библиотеки и и подключены неиспользованные файлы. 
 
-This template should help get you started developing with Vue 3 in Vite.
+Понравившиеся мне тестовые задания я добавляю в свое портфолио, расположенное на платном хостинге, поэтому в многостраничных проектах с использованием vue router указаны пути для сервера и они могут не открыться при запуске на локальном компьютере.
 
-## Recommended IDE Setup
+[Мое портфолио](https://insight-webstudio.ru/) 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Задача:
 
-## Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+Алгоритм выполнения данного проекта:
